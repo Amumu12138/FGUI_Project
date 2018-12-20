@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="49pdda70" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="u1ih0" name="n1.png" path="/Resources/" exported="true"/>
+    <image id="u1ih1" name="n2.png" path="/Resources/" exported="true"/>
+    <image id="u1ih2" name="n3.png" path="/Resources/" exported="true"/>
+    <image id="u1ih3" name="n4.png" path="/Resources/" exported="true"/>
+    <image id="u1ih4" name="n5.png" path="/Resources/" exported="true"/>
+    <component id="u1ih5" name="Main.xml" path="/Components/" exported="true"/>
+    <component id="u1ih6" name="ChapterItem.xml" path="/Components/"/>
+  </resources>
+  <publish name="Example02_LoopList" path="E:\Unity_Project\FGUIExample\Assets\FairyGUI\Examples\Resources\UI"/>
+</packageDescription>

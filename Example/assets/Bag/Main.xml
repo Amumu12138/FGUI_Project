@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <component id="n0_un52" name="n0" src="un52b" xy="196,145" group="n1_un52"/>
+    <group id="n1_un52" name="n1" xy="196,145" size="100,100"/>
+    <text id="n2_un52" name="n2" xy="131,89" size="195,39" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="THIS IS BAG !"/>
+  </displayList>
+</component>

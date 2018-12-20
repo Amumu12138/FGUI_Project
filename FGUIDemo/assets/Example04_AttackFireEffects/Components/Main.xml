@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <image id="n0_m8sg" name="n0" src="fraj1i" xy="434,373" group="n4_m8sg"/>
+    <image id="n1_m8sg" name="n1" src="fraj1h" xy="503,376" group="n4_m8sg"/>
+    <text id="n2_m8sg" name="n2" xy="668,380" size="202,54" group="n4_m8sg" font="ui://zppsf0pcm8sg1l" fontSize="30" letterSpacing="-13" text="10000"/>
+    <text id="n3_m8sg" name="n3" xy="629,332" size="124,40" group="n4_m8sg" font="ui://zppsf0pcm8sg1k" fontSize="30" letterSpacing="-5" text="+1234"/>
+    <movieclip id="n5_m8sg" name="n5" src="m8sg1m" xy="849,324" pivot="0.5,0.8" size="64,128" group="n4_m8sg"/>
+    <group id="n4_m8sg" name="n4" xy="435,324" size="477,128" advanced="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Size" target="n5_m8sg" tween="true" startValue="0,0" endValue="64,128" duration="6"/>
+    <item time="0" type="XY" target="n4_m8sg" tween="true" startValue="-500,250" endValue="0,250" duration="6"/>
+    <item time="30" type="Alpha" target="n4_m8sg" tween="true" startValue="1" endValue="0.2" duration="18"/>
+    <item time="30" type="Size" target="n5_m8sg" tween="true" startValue="64,128" endValue="128,256" duration="18"/>
+    <item time="30" type="XY" target="n4_m8sg" label="addAttack" tween="true" startValue="457.06,272.95" endValue="457,148" duration="18"/>
+  </transition>
+</component>

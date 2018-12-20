@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="s5ml0x9k" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="m8sg0" name="b5_png.png" path="/Resources/"/>
+    <image id="m8sg1" name="b6_png.png" path="/Resources/" scale="9grid" scale9grid="22,7,44,14"/>
+    <image id="m8sg2" name="b7(2)_png.png" path="/Resources/"/>
+    <image id="m8sg3" name="caiji.png" path="/Resources/" scale="9grid" scale9grid="70,8,140,9"/>
+    <image id="m8sg4" name="caiji2.png" path="/Resources/" scale="9grid" scale9grid="57,8,114,9"/>
+    <image id="m8sg5" name="k20.png" path="/Resources/" scale="9grid" scale9grid="33,12,66,17"/>
+    <movieclip id="m8sg6" name="pet.jta" path="/Resources/"/>
+    <component id="m8sg7" name="Main.xml" path="/Components/" exported="true"/>
+    <component id="m8sg8" name="ProgressBar.xml" path="/Components/" exported="true"/>
+    <image id="m8sgf" name="b7.png" path="/Resources/"/>
+    <component id="m8sgg" name="ComboBox_item.xml" path="/Components/"/>
+    <component id="m8sgh" name="ComboBox_popup.xml" path="/Components/"/>
+    <component id="m8sgi" name="ComboBox.xml" path="/Components/" exported="true"/>
+  </resources>
+  <publish name="Example05_ComboBox"/>
+</packageDescription>

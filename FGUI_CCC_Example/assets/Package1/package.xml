@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="eyaxz67j" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="hkxr0" name="Component1.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Package1" path="E:\CocosCreatorProject\FGUI_Example\assets\resources\UI"/>
+</packageDescription>

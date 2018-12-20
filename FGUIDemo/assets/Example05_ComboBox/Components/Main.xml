@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <component id="n0_m8sg" name="n0" src="m8sg8" xy="494,496">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n2_m8sg" name="n1" src="m8sgi" xy="574,413">
+      <ComboBox visibleItemCount="10"/>
+    </component>
+  </displayList>
+</component>

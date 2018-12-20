@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,172">
+  <displayList>
+    <image id="n1" name="n1" src="m8sg5" xy="0,0" size="150,172">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n2" name="list" xy="0,0" size="150,172" defaultItem="ui://s5ml0x9km8sgg">
+      <relation target="" sidePair="width-width"/>
+      <item title="5s" name="5"/>
+      <item title="10s" name="10"/>
+      <item title="20s" name="20"/>
+    </list>
+  </displayList>
+  <relation target="n2" sidePair="height-height"/>
+</component>

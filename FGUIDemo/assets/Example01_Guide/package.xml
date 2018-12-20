@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="46lvilxw" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="u1ih0" name="btnimage.png" path="/Resources/"/>
+    <movieclip id="u1ih1" name="quan.jta" path="/Resources/"/>
+    <movieclip id="u1ih2" name="rswcfhd.jta" path="/Resources/"/>
+    <component id="u1ih3" name="Main.xml" path="/Components/" exported="true"/>
+  </resources>
+  <publish name="Example01_Guide" path="E:\Unity_Project\FGUIExample\Assets\FairyGUI\Examples\Resources\UI"/>
+</packageDescription>

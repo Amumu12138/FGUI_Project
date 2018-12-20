@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImageAlpha="70" bgColorEnabled="true" bgColor="#000000">
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n0_u1ih" name="n0" src="u1ih0" xy="100,600"/>
+    <graph id="n1_u1ih" name="n1" xy="0,0" size="1334,600" group="n3_u1ih" alpha="0.7" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <graph id="n2_u1ih" name="n2" xy="0,699" size="1332,62" group="n3_u1ih" alpha="0.7" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <graph id="n4_u1ih" name="n4" xy="192,600" size="1138,100" group="n3_u1ih" alpha="0.7" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <graph id="n5_u1ih" name="n5" xy="0,600" size="100,100" group="n3_u1ih" alpha="0.7" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <group id="n3_u1ih" name="n3" xy="0,0" size="1334,761" advanced="true" collapsed="true"/>
+    <movieclip id="n6_u1ih" name="n6" src="u1ih2" xy="298,633" scale="-1,1">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="0" values="1487,650" default="298,633" tween="true"/>
+    </movieclip>
+    <movieclip id="n7_u1ih" name="n7" src="u1ih1" xy="86,589"/>
+  </displayList>
+</component>

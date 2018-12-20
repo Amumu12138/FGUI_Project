@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7qqs5shg" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="9r610" name="2.png" path="/Resources/"/>
+    <image id="9r611" name="3.png" path="/Resources/"/>
+    <image id="9r612" name="b4.png" path="/Resources/"/>
+    <image id="9r613" name="b5.png" path="/Resources/"/>
+    <sound id="9r614" name="BUZZ4.wav" path="/Resources/"/>
+    <component id="9r615" name="Boss.xml" path="/Components/" exported="true"/>
+    <component id="9r616" name="Button.xml" path="/Components/" exported="true"/>
+  </resources>
+  <publish name="Example03_ButtonEffects" path="E:\Unity_Project\FGUIExample\Assets\FairyGUI\Examples\Resources\UI"/>
+</packageDescription>

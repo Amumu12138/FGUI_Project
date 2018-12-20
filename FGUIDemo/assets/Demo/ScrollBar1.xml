@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="23,200" extention="ScrollBar">
+  <displayList>
+    <image id="n1" name="n1" src="l1zxt" xy="0,0" size="23,200">
+      <relation target="" sidePair="height-height"/>
+    </image>
+    <graph id="n2" name="bar" xy="0,20" size="23,160">
+      <relation target="" sidePair="height-height"/>
+    </graph>
+    <component id="n3" name="arrow1" src="l1zx1h" xy="0,0"/>
+    <component id="n4" name="arrow2" src="l1zx1i" xy="0,180">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n5" name="grip" src="l1zx1j" xy="0,20"/>
+  </displayList>
+  <ScrollBar fixedGripSize="true"/>
+</component>

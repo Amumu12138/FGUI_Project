@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bpwkc3ps" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="un520" name="0.png" path="/images/"/>
+    <image id="un521" name="1.png" path="/images/"/>
+    <image id="un522" name="2.png" path="/images/"/>
+    <image id="un523" name="3.png" path="/images/"/>
+    <image id="un524" name="4.png" path="/images/"/>
+    <image id="un525" name="5.png" path="/images/"/>
+    <image id="un526" name="7.png" path="/images/"/>
+    <image id="un527" name="8.png" path="/images/"/>
+    <image id="un528" name="btnimage.png" path="/images/"/>
+    <movieclip id="un529" name="quan.jta" path="/images/"/>
+    <component id="un52a" name="Main.xml" path="/" exported="true"/>
+    <component id="un52b" name="BagButton.xml" path="/"/>
+  </resources>
+  <publish name="Bag" path="E:\Unity_Project\FGUIExample\Assets\FairyGUI\Examples\Resources\UI"/>
+</packageDescription>

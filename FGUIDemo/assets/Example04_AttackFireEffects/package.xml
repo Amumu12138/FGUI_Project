@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zppsf0pc" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="fraj0" name="100000.png" path="/Resources/Fire/"/>
+    <image id="fraj1" name="100001.png" path="/Resources/Fire/"/>
+    <image id="fraj2" name="100002.png" path="/Resources/Fire/"/>
+    <image id="fraj3" name="100003.png" path="/Resources/Fire/"/>
+    <image id="fraj4" name="100004.png" path="/Resources/Fire/"/>
+    <image id="fraj5" name="100005.png" path="/Resources/Fire/"/>
+    <image id="fraj6" name="100006.png" path="/Resources/Fire/"/>
+    <image id="fraj7" name="100007.png" path="/Resources/Fire/"/>
+    <image id="fraj8" name="100008.png" path="/Resources/Fire/"/>
+    <image id="fraj9" name="100009.png" path="/Resources/Fire/"/>
+    <image id="fraja" name="100010.png" path="/Resources/Fire/"/>
+    <image id="frajb" name="100011.png" path="/Resources/Fire/"/>
+    <image id="frajc" name="100012.png" path="/Resources/Fire/"/>
+    <image id="frajd" name="100013.png" path="/Resources/Fire/"/>
+    <image id="fraje" name="100014.png" path="/Resources/Fire/"/>
+    <image id="frajf" name="100015.png" path="/Resources/Fire/"/>
+    <image id="frajg" name="100016.png" path="/Resources/Fire/"/>
+    <image id="frajh" name="100017.png" path="/Resources/Fire/"/>
+    <image id="fraji" name="100018.png" path="/Resources/Fire/"/>
+    <image id="frajj" name="100019.png" path="/Resources/Fire/"/>
+    <image id="frajk" name="100020.png" path="/Resources/Fire/"/>
+    <image id="frajl" name="100021.png" path="/Resources/Fire/"/>
+    <image id="frajm" name="100022.png" path="/Resources/Fire/"/>
+    <image id="frajn" name="100023.png" path="/Resources/Fire/"/>
+    <image id="frajo" name="100024.png" path="/Resources/Fire/"/>
+    <image id="frajp" name="100025.png" path="/Resources/Fire/"/>
+    <image id="frajq" name="100026.png" path="/Resources/Fire/"/>
+    <image id="frajr" name="100027.png" path="/Resources/Fire/"/>
+    <image id="frajs" name="100028.png" path="/Resources/Fire/"/>
+    <image id="frajt" name="100029.png" path="/Resources/Fire/"/>
+    <image id="fraju" name="100030.png" path="/Resources/Fire/"/>
+    <image id="frajv" name="100031.png" path="/Resources/Fire/"/>
+    <image id="frajw" name="0000_+.png" path="/Resources/AddValue/"/>
+    <image id="frajx" name="0001_9.png" path="/Resources/AddValue/"/>
+    <image id="frajy" name="0002_8.png" path="/Resources/AddValue/"/>
+    <image id="frajz" name="0003_7.png" path="/Resources/AddValue/"/>
+    <image id="fraj10" name="0004_6.png" path="/Resources/AddValue/"/>
+    <image id="fraj11" name="0005_5.png" path="/Resources/AddValue/"/>
+    <image id="fraj12" name="0006_4.png" path="/Resources/AddValue/"/>
+    <image id="fraj13" name="0007_3.png" path="/Resources/AddValue/"/>
+    <image id="fraj14" name="0008_2.png" path="/Resources/AddValue/"/>
+    <image id="fraj15" name="0009_1.png" path="/Resources/AddValue/"/>
+    <image id="fraj16" name="0010_0.png" path="/Resources/AddValue/"/>
+    <image id="fraj17" name="h0.png" path="/Resources/AttackValue/"/>
+    <image id="fraj18" name="h1.png" path="/Resources/AttackValue/"/>
+    <image id="fraj19" name="h2.png" path="/Resources/AttackValue/"/>
+    <image id="fraj1a" name="h3.png" path="/Resources/AttackValue/"/>
+    <image id="fraj1b" name="h4.png" path="/Resources/AttackValue/"/>
+    <image id="fraj1c" name="h5.png" path="/Resources/AttackValue/"/>
+    <image id="fraj1d" name="h6.png" path="/Resources/AttackValue/"/>
+    <image id="fraj1e" name="h7.png" path="/Resources/AttackValue/"/>
+    <image id="fraj1f" name="h8.png" path="/Resources/AttackValue/"/>
+    <image id="fraj1g" name="h9.png" path="/Resources/AttackValue/"/>
+    <image id="fraj1h" name="power.png" path="/Resources/"/>
+    <image id="fraj1i" name="red.png" path="/Resources/"/>
+    <component id="fraj1j" name="Main.xml" path="/Components/" exported="true"/>
+    <font id="m8sg1k" name="AddValue.fnt" path="/Resources/" exported="true"/>
+    <font id="m8sg1l" name="AttackValue.fnt" path="/Resources/" exported="true"/>
+    <movieclip id="m8sg1m" name="Fire.jta" path="/Resources/"/>
+  </resources>
+  <publish name="Example04_AttackFireEffects" path="E:\Unity_Project\FGUIExample\Assets\FairyGUI\Examples\Resources\UI"/>
+</packageDescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600" bgColorEnabled="true" bgColor="#cccccc">
+  <displayList>
+    <component id="n0_l1zx" name="n0" src="l1zx12" xy="65,73">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n2_l1zx" name="n2" xy="63,49" size="41,19" fontSize="12" text="进度条"/>
+    <text id="n5_l1zx" name="n5" xy="69,126" size="41,19" fontSize="12" text="滑动条"/>
+    <component id="n9_l1zx" name="n9" src="l1zx18" xy="70,157">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n10_l1zx" name="n10" src="l1zx1c" xy="84,260"/>
+    <text id="n11_l1zx" name="n11" xy="69,232" size="41,19" fontSize="12" text="滚动条"/>
+    <component id="n12_l1zx" name="n12" src="l1zxj" xy="-3,-1"/>
+  </displayList>
+</component>

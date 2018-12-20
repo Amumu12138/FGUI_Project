@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" bgColorEnabled="true" bgColor="#cccccc">
+  <displayList>
+    <list id="n0_ka4z" name="n0" xy="-2,254" size="1334,464" layout="flow_vt" overflow="scroll" lineGap="10" colGap="24" lineItemCount="2" defaultItem="ui://d5vg2i0dka4z4k" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

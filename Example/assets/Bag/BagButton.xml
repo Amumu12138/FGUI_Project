@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100">
+  <displayList>
+    <image id="n0_un52" name="n0" src="un528" xy="10,0"/>
+    <movieclip id="n1_un52" name="n1" src="un529" xy="0,0"/>
+  </displayList>
+</component>

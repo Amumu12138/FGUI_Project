@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600" bgColorEnabled="true" bgColor="#cccccc">
+  <displayList>
+    <list id="n0_l1zx" name="n0" xy="264,82" size="234,372" overflow="scroll" scrollBarRes="ui://tf5nnffxl1zx1k,">
+      <item url="ui://tf5nnffxl1zxo"/>
+      <item url="ui://tf5nnffxl1zxo"/>
+      <item url="ui://tf5nnffxl1zxo"/>
+      <item url="ui://tf5nnffxl1zxo"/>
+      <item url="ui://tf5nnffxl1zxo"/>
+      <item url="ui://tf5nnffxl1zxo"/>
+      <item url="ui://tf5nnffxl1zxo"/>
+    </list>
+  </displayList>
+</component>

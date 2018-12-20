@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d5vg2i0d" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ka4z0" name="750p 充值界面.jpg" path="/VIP界面/效果图/"/>
+    <image id="ka4z1" name="背景 中级.png" path="/VIP界面/"/>
+    <image id="ka4z2" name="背景 低级.png" path="/VIP界面/" scale=""/>
+    <image id="ka4z3" name="背景 高级.png" path="/VIP界面/"/>
+    <image id="ka4z4" name="背景总.png" path="/VIP界面/"/>
+    <image id="ka4z5" name="A 64.png" path="/通用素材/"/>
+    <image id="ka4z6" name="A.png" path="/通用素材/"/>
+    <image id="ka4z7" name="B 64.png" path="/通用素材/"/>
+    <image id="ka4z8" name="B.png" path="/通用素材/"/>
+    <image id="ka4z9" name="C 64.png" path="/通用素材/"/>
+    <image id="ka4za" name="C.png" path="/通用素材/"/>
+    <image id="ka4zb" name="D 64.png" path="/通用素材/"/>
+    <image id="ka4zc" name="D.png" path="/通用素材/"/>
+    <image id="ka4zd" name="Mvp.png" path="/通用素材/"/>
+    <image id="ka4ze" name="NEW.png" path="/通用素材/"/>
+    <image id="ka4zf" name="S 64.png" path="/通用素材/"/>
+    <image id="ka4zg" name="S.png" path="/通用素材/"/>
+    <image id="ka4zh" name="UI 战术.png" path="/通用素材/"/>
+    <image id="ka4zi" name="UI 战术2.png" path="/通用素材/"/>
+    <image id="ka4zj" name="VIP.png" path="/通用素材/"/>
+    <image id="ka4zk" name="主界面.png" path="/通用素材/"/>
+    <image id="ka4zl" name="位置 上路.png" path="/通用素材/"/>
+    <image id="ka4zm" name="位置 中单.png" path="/通用素材/"/>
+    <image id="ka4zn" name="位置 射手.png" path="/通用素材/"/>
+    <image id="ka4zo" name="位置 打野.png" path="/通用素材/"/>
+    <image id="ka4zp" name="位置 辅助.png" path="/通用素材/"/>
+    <image id="ka4zq" name="位置B 上路.png" path="/通用素材/"/>
+    <image id="ka4zr" name="位置B 中单.png" path="/通用素材/"/>
+    <image id="ka4zs" name="位置B 射手.png" path="/通用素材/"/>
+    <image id="ka4zt" name="位置B 打野.png" path="/通用素材/"/>
+    <image id="ka4zu" name="位置B 辅助.png" path="/通用素材/"/>
+    <image id="ka4zv" name="公告.png" path="/通用素材/"/>
+    <image id="ka4zw" name="六角图标框架.png" path="/通用素材/"/>
+    <image id="ka4zx" name="六角色块 黑色.png" path="/通用素材/"/>
+    <image id="ka4zy" name="分割线.png" path="/通用素材/"/>
+    <image id="ka4zz" name="分割线2.png" path="/通用素材/"/>
+    <image id="ka4z10" name="图层 673 拷贝.png" path="/通用素材/"/>
+    <image id="ka4z11" name="圆形按钮.png" path="/通用素材/"/>
+    <image id="ka4z12" name="圆角色块 白色.png" path="/通用素材/"/>
+    <image id="ka4z13" name="圆角色块 蓝色.png" path="/通用素材/"/>
+    <image id="ka4z14" name="圆角色块 黑色.png" path="/通用素材/"/>
+    <image id="ka4z15" name="增减按钮.png" path="/通用素材/"/>
+    <image id="ka4z16" name="外设.png" path="/通用素材/"/>
+    <image id="ka4z17" name="天赋.png" path="/通用素材/"/>
+    <image id="ka4z18" name="属性 反应速度.png" path="/通用素材/"/>
+    <image id="ka4z19" name="属性 团战走位.png" path="/通用素材/"/>
+    <image id="ka4z1a" name="属性 团战输出.png" path="/通用素材/"/>
+    <image id="ka4z1b" name="属性 对线意识.png" path="/通用素材/"/>
+    <image id="ka4z1c" name="属性 对线技巧.png" path="/通用素材/"/>
+    <image id="ka4z1d" name="属性 经济压制.png" path="/通用素材/"/>
+    <image id="ka4z1e" name="属性 经济发育.png" path="/通用素材/"/>
+    <image id="ka4z1f" name="已准备 选择.png" path="/通用素材/"/>
+    <image id="ka4z1g" name="已装备 2.png" path="/通用素材/"/>
+    <image id="ka4z1h" name="已装备.png" path="/通用素材/"/>
+    <image id="ka4z1i" name="战术调整 窗口.png" path="/通用素材/"/>
+    <image id="ka4z1j" name="技能.png" path="/通用素材/"/>
+    <image id="ka4z1k" name="技能2.png" path="/通用素材/"/>
+    <image id="ka4z1l" name="技能框 底部.png" path="/通用素材/"/>
+    <image id="ka4z1m" name="技能高光.png" path="/通用素材/"/>
+    <image id="ka4z1n" name="排名1 底部.png" path="/通用素材/"/>
+    <image id="ka4z1o" name="排名1.png" path="/通用素材/"/>
+    <image id="ka4z1p" name="排名2.png" path="/通用素材/"/>
+    <image id="ka4z1q" name="排名23 底部.png" path="/通用素材/"/>
+    <image id="ka4z1r" name="排名3 底部.png" path="/通用素材/"/>
+    <image id="ka4z1s" name="排名3.png" path="/通用素材/"/>
+    <image id="ka4z1t" name="提示.png" path="/通用素材/"/>
+    <image id="ka4z1u" name="数据按钮.png" path="/通用素材/"/>
+    <image id="ka4z1v" name="时间.png" path="/通用素材/"/>
+    <image id="ka4z1w" name="星星亮.png" path="/通用素材/"/>
+    <image id="ka4z1x" name="星星灭.png" path="/通用素材/"/>
+    <image id="ka4z1y" name="标签页 B组.png" path="/通用素材/"/>
+    <image id="ka4z1z" name="标签页切换 灰点.png" path="/通用素材/"/>
+    <image id="ka4z20" name="标签页切换 白点.png" path="/通用素材/"/>
+    <image id="ka4z21" name="标签页灭.png" path="/通用素材/"/>
+    <image id="ka4z22" name="标签页点亮.png" path="/通用素材/"/>
+    <image id="ka4z23" name="标题底部.png" path="/通用素材/"/>
+    <image id="ka4z24" name="标题按钮.png" path="/通用素材/"/>
+    <image id="ka4z25" name="标题按钮2.png" path="/通用素材/"/>
+    <image id="ka4z26" name="框架 底板2.png" path="/通用素材/"/>
+    <image id="ka4z27" name="物品底板.png" path="/通用素材/"/>
+    <image id="ka4z28" name="物品框架 灰.png" path="/通用素材/"/>
+    <image id="ka4z29" name="物品框架 紫.png" path="/通用素材/"/>
+    <image id="ka4z2a" name="物品框架 红.png" path="/通用素材/"/>
+    <image id="ka4z2b" name="物品框架 绿.png" path="/通用素材/"/>
+    <image id="ka4z2c" name="物品框架 蓝.png" path="/通用素材/"/>
+    <image id="ka4z2d" name="物品框架 金.png" path="/通用素材/"/>
+    <image id="ka4z2e" name="符号 叉.png" path="/通用素材/"/>
+    <image id="ka4z2f" name="符号 四边形白.png" path="/通用素材/"/>
+    <image id="ka4z2g" name="符号 四边形蓝.png" path="/通用素材/"/>
+    <image id="ka4z2h" name="符号 提示.png" path="/通用素材/"/>
+    <image id="ka4z2i" name="箭头A.png" path="/通用素材/"/>
+    <image id="ka4z2j" name="箭头B.png" path="/通用素材/"/>
+    <image id="ka4z2k" name="箭头C.png" path="/通用素材/"/>
+    <image id="ka4z2l" name="红点 2.png" path="/通用素材/"/>
+    <image id="ka4z2m" name="红点.png" path="/通用素材/"/>
+    <image id="ka4z2n" name="经验条2 A 红.png" path="/通用素材/"/>
+    <image id="ka4z2o" name="经验条2 A 蓝.png" path="/通用素材/"/>
+    <image id="ka4z2p" name="经验条2 A.png" path="/通用素材/"/>
+    <image id="ka4z2q" name="经验条2 B.png" path="/通用素材/"/>
+    <image id="ka4z2r" name="经验条2 活跃度.png" path="/通用素材/"/>
+    <image id="ka4z2s" name="经验条2 活跃度B.png" path="/通用素材/"/>
+    <image id="ka4z2t" name="经验条2 高光.png" path="/通用素材/"/>
+    <image id="ka4z2u" name="经验条B.png" path="/通用素材/"/>
+    <image id="ka4z2v" name="0.png" path="/通用素材/美术字/"/>
+    <image id="ka4z2w" name="1.png" path="/通用素材/美术字/"/>
+    <image id="ka4z2x" name="2.png" path="/通用素材/美术字/"/>
+    <image id="ka4z2y" name="3.png" path="/通用素材/美术字/"/>
+    <image id="ka4z2z" name="4.png" path="/通用素材/美术字/"/>
+    <image id="ka4z30" name="5.png" path="/通用素材/美术字/"/>
+    <image id="ka4z31" name="6.png" path="/通用素材/美术字/"/>
+    <image id="ka4z32" name="7.png" path="/通用素材/美术字/"/>
+    <image id="ka4z33" name="8.png" path="/通用素材/美术字/"/>
+    <image id="ka4z34" name="9.png" path="/通用素材/美术字/"/>
+    <image id="ka4z35" name="万.png" path="/通用素材/美术字/"/>
+    <image id="ka4z36" name="英雄底板.png" path="/通用素材/"/>
+    <image id="ka4z37" name="英雄底板2.png" path="/通用素材/"/>
+    <image id="ka4z38" name="英雄池.png" path="/通用素材/"/>
+    <image id="ka4z39" name="解疑按钮.png" path="/通用素材/"/>
+    <image id="ka4z3a" name="警告标志.png" path="/通用素材/"/>
+    <image id="ka4z3b" name="货币框架 加号.png" path="/通用素材/"/>
+    <image id="ka4z3c" name="货币框架底.png" path="/通用素材/"/>
+    <image id="ka4z3d" name="身价图标.png" path="/通用素材/"/>
+    <image id="ka4z3e" name="边框A.png" path="/通用素材/"/>
+    <image id="ka4z3f" name="选中 2.png" path="/通用素材/"/>
+    <image id="ka4z3g" name="选中.png" path="/通用素材/"/>
+    <image id="ka4z3h" name="选手信息底部 红.png" path="/通用素材/"/>
+    <image id="ka4z3i" name="选手信息底部 蓝.png" path="/通用素材/"/>
+    <image id="ka4z3j" name="选手图标.png" path="/通用素材/"/>
+    <image id="ka4z3k" name="选手界面右侧栏通用底框.png" path="/通用素材/"/>
+    <image id="ka4z3l" name="选择显示.png" path="/通用素材/"/>
+    <image id="ka4z3m" name="选项 按钮灯 亮.png" path="/通用素材/"/>
+    <image id="ka4z3n" name="选项 按钮灯 灭.png" path="/通用素材/"/>
+    <image id="ka4z3o" name="通用 弹窗 A.png" path="/通用素材/"/>
+    <image id="ka4z3p" name="通用 弹窗 B.png" path="/通用素材/"/>
+    <image id="ka4z3q" name="通用 弹窗 C.png" path="/通用素材/"/>
+    <image id="ka4z3r" name="通用 弹窗 D.png" path="/通用素材/" scale="9grid" scale9grid="9,9,18,18"/>
+    <image id="ka4z3s" name="通用 弹窗.png" path="/通用素材/" scale="9grid" scale9grid="197,114,394,228"/>
+    <image id="ka4z3t" name="通用 标签页按钮 亮.png" path="/通用素材/"/>
+    <image id="ka4z3u" name="通用 标签页按钮 灭.png" path="/通用素材/"/>
+    <image id="ka4z3v" name="通用圆框架 128.png" path="/通用素材/"/>
+    <image id="ka4z3w" name="通用圆框架.png" path="/通用素材/"/>
+    <image id="ka4z3x" name="通用弹窗 按钮.png" path="/通用素材/"/>
+    <image id="ka4z3y" name="通用弹窗A.png" path="/通用素材/"/>
+    <image id="ka4z3z" name="通用按钮 矩形 蓝.png" path="/通用素材/"/>
+    <image id="ka4z40" name="通用按钮 矩形 黄.png" path="/通用素材/"/>
+    <image id="ka4z41" name="通用按钮 绿.png" path="/通用素材/"/>
+    <image id="ka4z42" name="通用按钮 蓝.png" path="/通用素材/"/>
+    <image id="ka4z43" name="通用按钮 黄.png" path="/通用素材/"/>
+    <image id="ka4z44" name="通用按钮2 A.png" path="/通用素材/" scale="9grid" scale9grid="54,20,108,7"/>
+    <image id="ka4z45" name="通用按钮2 B.png" path="/通用素材/" scale="9grid" scale9grid="54,20,108,40"/>
+    <image id="ka4z46" name="通用条纹边.png" path="/通用素材/"/>
+    <image id="ka4z47" name="通用标题栏 返回按钮.png" path="/通用素材/"/>
+    <image id="ka4z48" name="通用标题栏.png" path="/通用素材/"/>
+    <image id="ka4z49" name="通用标题栏主体 2.png" path="/通用素材/"/>
+    <image id="ka4z4a" name="通用标题栏主体.png" path="/通用素材/"/>
+    <image id="ka4z4b" name="通用背景.jpg" path="/通用素材/"/>
+    <image id="ka4z4c" name="邮箱 商城 好友 底板.png" path="/通用素材/"/>
+    <image id="ka4z4d" name="锁 关.png" path="/通用素材/"/>
+    <image id="ka4z4e" name="锁 开.png" path="/通用素材/"/>
+    <image id="ka4z4f" name="锁定 .png" path="/通用素材/"/>
+    <image id="ka4z4g" name="锁定开 .png" path="/通用素材/"/>
+    <component id="ka4z4h" name="VIP.xml" path="/"/>
+    <component id="ka4z4i" name="List.xml" path="/"/>
+    <font id="ka4z4j" name="Font.fnt" path="/" exported="true"/>
+    <component id="ka4z4k" name="Recharge.xml" path="/"/>
+    <component id="ka4z4l" name="Button.xml" path="/"/>
+    <image id="ka4z4o" name="强化石A.png" path="/道具/"/>
+    <image id="ka4z4p" name="强化石B.png" path="/道具/"/>
+    <image id="ka4z4q" name="强化石C.png" path="/道具/"/>
+    <image id="ka4z4r" name="未知1.png" path="/道具/"/>
+    <image id="ka4z4s" name="礼包 64.png" path="/道具/"/>
+    <image id="ka4z4t" name="礼包 A.png" path="/道具/"/>
+    <image id="ka4z4u" name="礼包 B.png" path="/道具/"/>
+    <image id="ka4z4v" name="礼包 C.png" path="/道具/"/>
+    <image id="ka4z4w" name="礼包 D.png" path="/道具/"/>
+    <image id="ka4z4x" name="礼包 E.png" path="/道具/"/>
+    <image id="ka4z4y" name="礼包.png" path="/道具/"/>
+    <image id="ka4z4z" name="箱子A.png" path="/道具/"/>
+    <image id="ka4z50" name="经验药水A.png" path="/道具/"/>
+    <image id="ka4z51" name="经验药水B.png" path="/道具/"/>
+    <image id="ka4z52" name="经验药水C.png" path="/道具/"/>
+    <image id="ka4z53" name="绿宝石.png" path="/道具/"/>
+    <image id="ka4z54" name="金币.png" path="/道具/"/>
+    <image id="ka4z55" name="金币A.png" path="/道具/"/>
+    <image id="ka4z56" name="金币B.png" path="/道具/"/>
+    <image id="ka4z57" name="金币C.png" path="/道具/"/>
+    <image id="ka4z58" name="金币D.png" path="/道具/"/>
+    <image id="ka4z59" name="金币E.png" path="/道具/"/>
+    <image id="ka4z5a" name="钻石.png" path="/道具/"/>
+    <image id="ka4z5b" name="钻石A 2.png" path="/道具/"/>
+    <image id="ka4z5c" name="钻石A.png" path="/道具/"/>
+    <image id="ka4z5d" name="钻石B.png" path="/道具/"/>
+    <image id="ka4z5e" name="钻石C.png" path="/道具/"/>
+    <image id="ka4z5f" name="钻石D.png" path="/道具/"/>
+    <image id="ka4z5g" name="钻石E.png" path="/道具/"/>
+    <image id="ka4z5h" name="钻石F.png" path="/道具/"/>
+    <image id="ka4z5i" name="钻石G.png" path="/道具/"/>
+    <image id="ka4z5j" name="钻石H.png" path="/道具/"/>
+    <image id="ka4z5k" name="雷电.png" path="/道具/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

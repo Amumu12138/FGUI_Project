@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <image id="n1_9r61" name="n1" src="9r610" xy="-271,3"/>
+    <image id="n2_9r61" name="n2" src="9r611" xy="1337,622"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="XY" target="n2_9r61" tween="true" startValue="1400,640" endValue="0,640" duration="6"/>
+    <item time="0" type="XY" target="n1_9r61" tween="true" startValue="-300,0" endValue="1050,0" duration="6"/>
+    <item time="24" type="XY" target="n1_9r61" tween="true" startValue="1050,0" endValue="1350,0" duration="6"/>
+    <item time="24" type="XY" target="n2_9r61" tween="true" startValue="0,640" endValue="-400,640" duration="6"/>
+  </transition>
+</component>

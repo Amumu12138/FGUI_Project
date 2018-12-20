@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="277,32" extention="ProgressBar">
+  <displayList>
+    <image id="n1" name="n1" src="m8sg3" xy="0,-1" size="277,32">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2" name="bar" src="m8sg4" xy="23,-2" size="226,30"/>
+    <movieclip id="n3_m8sg" name="n3" src="m8sg6" xy="237,-35">
+      <relation target="n2" sidePair="right-right"/>
+    </movieclip>
+  </displayList>
+  <ProgressBar/>
+</component>

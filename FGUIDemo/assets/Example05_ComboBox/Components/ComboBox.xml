@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="85,25" extention="ComboBox">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="m8sgf" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2" name="title" xy="0,0" size="65,25" fontSize="12" align="center" vAlign="middle" autoSize="none" singleLine="true" text="加载时间">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <image id="n3_m8sg" name="n3" src="m8sg2" xy="68,4"/>
+  </displayList>
+  <ComboBox dropdown="ui://s5ml0x9km8sgh"/>
+</component>

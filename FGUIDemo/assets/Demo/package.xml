@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tf5nnffx" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="l1zx1" name="Component1.xml" path="/"/>
+    <image id="l1zx2" name="UI界面.jpg" path="/"/>
+    <image id="l1zx3" name="b4.png" path="/" scale="9grid" scale9grid="44,20,88,34"/>
+    <movieclip id="l1zx4" name="FireClip.jta" path="/"/>
+    <font id="l1zx5" name="Font1.fnt" path="/"/>
+    <image id="l1zx6" name="0000_9_png.png" path="/FontImages/"/>
+    <image id="l1zx7" name="0001_8_png.png" path="/FontImages/"/>
+    <image id="l1zx8" name="0002_7_png.png" path="/FontImages/"/>
+    <image id="l1zx9" name="0003_6_png.png" path="/FontImages/"/>
+    <image id="l1zxa" name="0004_5_png.png" path="/FontImages/"/>
+    <image id="l1zxb" name="0005_4_png.png" path="/FontImages/"/>
+    <image id="l1zxc" name="0006_3_png.png" path="/FontImages/"/>
+    <image id="l1zxd" name="0007_2_png.png" path="/FontImages/"/>
+    <image id="l1zxe" name="0008_1_png.png" path="/FontImages/"/>
+    <image id="l1zxf" name="0009_0-_png.png" path="/FontImages/"/>
+    <image id="l1zxh" name="4.png" path="/"/>
+    <component id="l1zxi" name="MoveEffect.xml" path="/"/>
+    <component id="l1zxj" name="List.xml" path="/"/>
+    <image id="l1zxm" name="b5.png" path="/"/>
+    <component id="l1zxo" name="Button1.xml" path="/" exported="true"/>
+    <component id="l1zxp" name="Component2.xml" path="/"/>
+    <image id="l1zxq" name="p10_png.png" path="/BarImages/"/>
+    <image id="l1zxr" name="p11_png.png" path="/BarImages/"/>
+    <image id="l1zxs" name="p12_png.png" path="/BarImages/"/>
+    <image id="l1zxt" name="p13_png.png" path="/BarImages/"/>
+    <image id="l1zxu" name="p14_png.png" path="/BarImages/"/>
+    <image id="l1zxv" name="p15_png.png" path="/BarImages/"/>
+    <image id="l1zxw" name="s4.png.jpg" path="/BarImages/"/>
+    <image id="l1zxx" name="s6.png.jpg" path="/BarImages/"/>
+    <image id="l1zxy" name="s8.png.jpg" path="/BarImages/"/>
+    <image id="l1zxz" name="s9.png.jpg" path="/BarImages/"/>
+    <component id="l1zx12" name="ProgressBar1.xml" path="/"/>
+    <component id="l1zx17" name="Slider1_grip.xml" path="/"/>
+    <component id="l1zx18" name="Slider1.xml" path="/"/>
+    <component id="l1zx1h" name="ScrollBar1_arrow1.xml" path="/"/>
+    <component id="l1zx1i" name="ScrollBar1_arrow2.xml" path="/"/>
+    <component id="l1zx1j" name="ScrollBar1_grip.xml" path="/"/>
+    <component id="l1zx1k" name="ScrollBar1.xml" path="/"/>
+  </resources>
+  <publish name="Demo" path="E:\Unity_Project\FGUIExample\Assets\FairyGUI\Resources"/>
+</packageDescription>

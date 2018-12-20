@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="239,341">
+  <displayList>
+    <image id="n0_ka4z" name="n0" src="ka4z2" xy="0,0"/>
+    <image id="n4_ka4z" name="n1" src="ka4z3r" xy="0,238" size="239,50"/>
+    <component id="n3_ka4z" name="n2" src="ka4z4l" xy="0,286"/>
+    <text id="n5_ka4z" name="n3" xy="72,8" size="101,44" font="微软雅黑" fontSize="30" color="#cc9966" align="center" vAlign="middle" bold="true" text="60砖石"/>
+    <text id="n6_ka4z" name="n4" xy="0,246" size="234,44" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="6元"/>
+    <text id="n7_ka4z" name="n5" xy="-2,290" size="239,44" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="购买"/>
+    <image id="n8_ka4z" name="n8" src="ka4z5a" xy="84,112"/>
+  </displayList>
+</component>

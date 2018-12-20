@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" bgColorEnabled="true" bgColor="#000000">
+  <displayList>
+    <list id="n0_u1ih" name="n0" xy="252,144" size="745,451" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://49pdda70u1ih6" align="center" vAlign="middle">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <item icon="ui://49pdda70u1ih0"/>
+      <item icon="ui://49pdda70u1ih1"/>
+      <item icon="ui://49pdda70u1ih2"/>
+    </list>
+  </displayList>
+</component>
