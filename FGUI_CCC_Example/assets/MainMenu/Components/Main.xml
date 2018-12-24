@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <component id="n0_c9sc" name="n0" src="hkxr0" fileName="Component1.xml" pkg="eyaxz67j" xy="0,6" size="1334,750"/>
+    <component id="n2_c9sc" name="bagBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="102,130">
+      <Button title="BAG"/>
+    </component>
+  </displayList>
+</component>

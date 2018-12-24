@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5djyybtt" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="c9sc0" name="Main.xml" path="/Components/" exported="true"/>
+    <component id="c9sc2" name="CloseButton.xml" path="/Components/" exported="true"/>
+    <component id="c9sc3" name="ButtonSub.xml" path="/Components/"/>
+  </resources>
+  <publish name="MainMenu" path="E:\CocosCreator_Project\FGUI_Example\assets\resources\UI"/>
+</packageDescription>

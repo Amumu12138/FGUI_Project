@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="615,387" extention="Label">
+  <displayList>
+    <image id="n0_lnf0" name="n0" src="7or76" fileName="Resources/5.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <graph id="n1_lnf0" name="dragArea" xy="43,11" size="471,27"/>
+    <text id="n2_lnf0" name="title" xy="205,4" size="206,42" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" text="窗口标题"/>
+    <component id="n3_lnf0" name="n3" src="lnf05" fileName="Components/CloseButton.xml" xy="509,2">
+      <relation target="" sidePair="right-right"/>
+    </component>
+  </displayList>
+</component>

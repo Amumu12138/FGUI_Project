@@ -3,5 +3,5 @@
   <resources>
     <component id="hkxr0" name="Component1.xml" path="/" exported="true"/>
   </resources>
-  <publish name="Package1" path="E:\CocosCreatorProject\FGUI_Example\assets\resources\UI"/>
+  <publish name="Package1" path="E:\CocosCreator_Project\FGUI_Example\assets\resources\UI"/>
 </packageDescription>

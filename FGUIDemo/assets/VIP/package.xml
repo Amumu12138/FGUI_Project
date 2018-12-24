@@ -3,7 +3,7 @@
   <resources>
     <image id="ka4z0" name="750p 充值界面.jpg" path="/VIP界面/效果图/"/>
     <image id="ka4z1" name="背景 中级.png" path="/VIP界面/"/>
-    <image id="ka4z2" name="背景 低级.png" path="/VIP界面/" scale=""/>
+    <image id="ka4z2" name="背景 低级.png" path="/VIP界面/"/>
     <image id="ka4z3" name="背景 高级.png" path="/VIP界面/"/>
     <image id="ka4z4" name="背景总.png" path="/VIP界面/"/>
     <image id="ka4z5" name="A 64.png" path="/通用素材/"/>
@@ -162,7 +162,7 @@
     <image id="ka4z4e" name="锁 开.png" path="/通用素材/"/>
     <image id="ka4z4f" name="锁定 .png" path="/通用素材/"/>
     <image id="ka4z4g" name="锁定开 .png" path="/通用素材/"/>
-    <component id="ka4z4h" name="VIP.xml" path="/"/>
+    <component id="ka4z4h" name="Main.xml" path="/" exported="true"/>
     <component id="ka4z4i" name="List.xml" path="/"/>
     <font id="ka4z4j" name="Font.fnt" path="/" exported="true"/>
     <component id="ka4z4k" name="Recharge.xml" path="/"/>

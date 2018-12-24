@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5m4xwomj" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="7or70" name="Main.xml" path="/Components/" exported="true"/>
+    <image id="7or71" name="0.png" path="/Resources/" scale="" scale9grid="15,19,30,38"/>
+    <image id="7or72" name="1.png" path="/Resources/" scale="9grid" scale9grid="23,23,46,46"/>
+    <image id="7or73" name="2.png" path="/Resources/"/>
+    <image id="7or74" name="3.png" path="/Resources/"/>
+    <image id="7or75" name="4.png" path="/Resources/" exported="true"/>
+    <image id="7or76" name="5.png" path="/Resources/" scale="9grid" scale9grid="154,97,308,194"/>
+    <image id="7or77" name="7.png" path="/Resources/"/>
+    <image id="7or78" name="8.png" path="/Resources/" scale="9grid" scale9grid="31,26,62,52"/>
+    <image id="7or79" name="btnimage.png" path="/Resources/"/>
+    <movieclip id="7or7a" name="quan.jta" path="/Resources/"/>
+    <component id="lnf01" name="BagButton.xml" path="/Components/"/>
+    <component id="lnf02" name="BagWin.xml" path="/Components/" exported="true"/>
+    <component id="lnf03" name="WindowsFrame.xml" path="/Components/"/>
+    <component id="lnf05" name="CloseButton.xml" path="/Components/"/>
+    <component id="lnf06" name="BagGridSub.xml" path="/Components/"/>
+    <component id="lnf07" name="dot.xml" path="/Components/"/>
+    <image id="c9sc8" name="i0.png" path="/Resources/"/>
+  </resources>
+  <publish name="Bag" path="E:\CocosCreator_Project\FGUI_Example\assets\resources\UI"/>
+</packageDescription>

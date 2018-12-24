@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <component id="n0_lnf0" name="n0" src="lnf01" fileName="Components/BagButton.xml" xy="37,627">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <text id="n1_lnf0" name="n1" xy="29,19" size="184,42" font="微軟正黑體 Light" fontSize="30" color="#ffffff" strokeColor="#000000" text="Example_Bag"/>
+  </displayList>
+</component>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640">
   <displayList>
-    <graph id="n0_hkxr" name="n0" xy="0,0" size="1163,640" type="rect" lineColor="#ffff0000" fillColor="#ffff0000"/>
-    <graph id="n2_hkxr" name="n2" xy="133,186" size="162,59" type="rect"/>
-    <text id="n3_hkxr" name="n3" xy="140,197" size="149,34" font="FangSong" fontSize="30" bold="true" text="Example01"/>
+    <graph id="n0_hkxr" name="n0" xy="0,0" size="1136,640" type="rect" lineColor="#ffff0000" fillColor="#ffff0000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n2_hkxr" name="n2" xy="49,32" size="162,59" type="rect"/>
+    <text id="n3_hkxr" name="n3" xy="55,40" size="148,44" font="Microsoft YaHei" fontSize="30" bold="true" text="Examples"/>
   </displayList>
 </component>
