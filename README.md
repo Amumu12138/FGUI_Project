@@ -3,7 +3,8 @@
 
 ### 文件目录
 ```
-  |--- Example Unity项目(背包)
-  |--- FGUI_CCC_Example CocosCreator项目
+  |--- Example           Unity项目(背包)
+  |--- FGUI_CCC_Example  CocosCreator项目
+  |--- FGUI_Demo         UnityDemo示例
   |--- 官方案例
 ```
