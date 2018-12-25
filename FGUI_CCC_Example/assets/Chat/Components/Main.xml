@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <image id="n0_eloy" name="n0" src="eloy1j" fileName="Resources/images/3.png" xy="0,0" size="1334,749">
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <graph id="n8_eloy" name="n8" xy="0,562" size="1334,2" type="rect" lineColor="#ff999999" fillColor="#ff999999"/>
+    <text id="n7_eloy" name="ExampleName" xy="30,28" size="228,42" fontSize="30" color="#ffffff" autoSize="none" underline="true" bold="true" italic="true" strokeColor="#000000" text="Example_Chat">
+      <relation target="" sidePair="left-left,top-top"/>
+    </text>
+    <list id="n1_eloy" name="msgList" xy="19,18" size="1257,538" overflow="scroll" margin="55,0,155,0" lineGap="50" defaultItem="ui://9wtvpvj4eloy1v">
+      <relation target="n0_eloy" sidePair="center-center,top-top"/>
+    </list>
+    <image id="n2_eloy" name="n2" src="eloy1p" fileName="Resources/images/9.png" xy="54,633" size="975,60" group="n6_eloy"/>
+    <richtext id="n3_eloy" name="input" xy="56,633" size="975,60" group="n6_eloy" input="true" fontSize="30" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <component id="n4_eloy" name="emojiBtn" src="eloy1u" fileName="Components/Button2.xml" xy="1055,622" group="n6_eloy"/>
+    <component id="n5_eloy" name="sendBtn" src="eloy1t" fileName="Components/Button.xml" xy="1158,627" group="n6_eloy">
+      <Button title="Send" titleColor="#000000" titleFontSize="30"/>
+    </component>
+    <group id="n6_eloy" name="n6" xy="54,622" size="1267,84" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

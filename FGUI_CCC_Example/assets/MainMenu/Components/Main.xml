@@ -5,5 +5,8 @@
     <component id="n2_c9sc" name="bagBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="102,130">
       <Button title="BAG"/>
     </component>
+    <component id="n3_eloy" name="chatBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="102,221">
+      <Button title="CHAT"/>
+    </component>
   </displayList>
 </component>

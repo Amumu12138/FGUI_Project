@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9wtvpvj4" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="eloy0" name="1f600.png" path="/Resources/emoji/"/>
+    <image id="eloy1" name="1f601.png" path="/Resources/emoji/"/>
+    <image id="eloy2" name="1f602.png" path="/Resources/emoji/"/>
+    <image id="eloy3" name="1f603.png" path="/Resources/emoji/"/>
+    <image id="eloy4" name="1f604.png" path="/Resources/emoji/"/>
+    <image id="eloy5" name="1f605.png" path="/Resources/emoji/"/>
+    <image id="eloy6" name="1f606.png" path="/Resources/emoji/"/>
+    <image id="eloy7" name="1f607.png" path="/Resources/emoji/"/>
+    <image id="eloy8" name="1f608.png" path="/Resources/emoji/"/>
+    <image id="eloy9" name="1f609.png" path="/Resources/emoji/"/>
+    <image id="eloya" name="1f610.png" path="/Resources/emoji/"/>
+    <image id="eloyb" name="1f611.png" path="/Resources/emoji/"/>
+    <image id="eloyc" name="1f612.png" path="/Resources/emoji/"/>
+    <image id="eloyd" name="1f613.png" path="/Resources/emoji/"/>
+    <image id="eloye" name="1f614.png" path="/Resources/emoji/"/>
+    <image id="eloyf" name="1f615.png" path="/Resources/emoji/"/>
+    <image id="eloyg" name="1f616.png" path="/Resources/emoji/"/>
+    <image id="eloyh" name="1f617.png" path="/Resources/emoji/"/>
+    <image id="eloyi" name="1f618.png" path="/Resources/emoji/"/>
+    <image id="eloyj" name="1f619.png" path="/Resources/emoji/"/>
+    <image id="eloyk" name="1f620.png" path="/Resources/emoji/"/>
+    <image id="eloyl" name="1f621.png" path="/Resources/emoji/"/>
+    <image id="eloym" name="1f622.png" path="/Resources/emoji/"/>
+    <image id="eloyn" name="1f623.png" path="/Resources/emoji/"/>
+    <image id="eloyo" name="1f624.png" path="/Resources/emoji/"/>
+    <image id="eloyp" name="1f625.png" path="/Resources/emoji/"/>
+    <image id="eloyq" name="1f626.png" path="/Resources/emoji/"/>
+    <image id="eloyr" name="1f627.png" path="/Resources/emoji/"/>
+    <image id="eloys" name="1f628.png" path="/Resources/emoji/"/>
+    <image id="eloyt" name="1f629.png" path="/Resources/emoji/"/>
+    <image id="eloyu" name="1f630.png" path="/Resources/emoji/"/>
+    <image id="eloyv" name="1f631.png" path="/Resources/emoji/"/>
+    <image id="eloyw" name="1f632.png" path="/Resources/emoji/"/>
+    <image id="eloyx" name="1f633.png" path="/Resources/emoji/"/>
+    <image id="eloyy" name="1f634.png" path="/Resources/emoji/"/>
+    <image id="eloyz" name="1f635.png" path="/Resources/emoji/"/>
+    <image id="eloy10" name="1f636.png" path="/Resources/emoji/"/>
+    <image id="eloy11" name="1f637.png" path="/Resources/emoji/"/>
+    <movieclip id="eloy12" name="88.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy13" name="am.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy14" name="bs.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy15" name="bz.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy16" name="ch.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy17" name="cool.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy18" name="dhq.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy19" name="dn.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy1a" name="fd.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy1b" name="gz.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy1c" name="han.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy1d" name="hx.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy1e" name="hxiao.jta" path="/Resources/emoji/"/>
+    <movieclip id="eloy1f" name="hxiu.jta" path="/Resources/emoji/"/>
+    <image id="eloy1g" name="0.png" path="/Resources/images/"/>
+    <image id="eloy1h" name="1.png" path="/Resources/images/"/>
+    <image id="eloy1i" name="2.png" path="/Resources/images/"/>
+    <image id="eloy1j" name="3.png" path="/Resources/images/" scale="9grid" scale9grid="13,16,26,32"/>
+    <image id="eloy1k" name="4.png" path="/Resources/images/"/>
+    <image id="eloy1l" name="5.png" path="/Resources/images/"/>
+    <image id="eloy1m" name="6.png" path="/Resources/images/"/>
+    <image id="eloy1n" name="7.png" path="/Resources/images/"/>
+    <image id="eloy1o" name="8.png" path="/Resources/images/"/>
+    <image id="eloy1p" name="9.png" path="/Resources/images/" scale="9grid" scale9grid="12,10,24,20"/>
+    <image id="eloy1q" name="r0.png" path="/Resources/images/" exported="true"/>
+    <image id="eloy1r" name="r1.png" path="/Resources/images/" exported="true"/>
+    <component id="eloy1s" name="Main.xml" path="/Components/" exported="true"/>
+    <component id="eloy1t" name="Button.xml" path="/Components/"/>
+    <component id="eloy1u" name="Button2.xml" path="/Components/"/>
+    <component id="eloy1v" name="chatItemSub.xml" path="/Components/" exported="true"/>
+    <component id="eloy1w" name="EmojiSelectUI.xml" path="/Components/" exported="true"/>
+    <component id="eloy1x" name="faceSub.xml" path="/Components/"/>
+  </resources>
+  <publish name="Chat"/>
+</packageDescription>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="538,168">
+  <displayList>
+    <image id="n0_eloy" name="n0" src="eloy1j" fileName="Resources/images/3.png" xy="0,0" size="538,168"/>
+    <list id="n1_eloy" name="emojiList" xy="15,10" size="513,150" layout="flow_hz" overflow="scroll" lineGap="15" colGap="15" defaultItem="ui://9wtvpvj4eloy1x">
+      <item title="1f600" icon="ui://9wtvpvj4eloy0"/>
+      <item title="1f601" icon="ui://9wtvpvj4eloy1"/>
+      <item title="1f602" icon="ui://9wtvpvj4eloy2"/>
+      <item title="1f603" icon="ui://9wtvpvj4eloy3"/>
+      <item title="1f604" icon="ui://9wtvpvj4eloy4"/>
+      <item title="1f605" icon="ui://9wtvpvj4eloy5"/>
+      <item title="1f606" icon="ui://9wtvpvj4eloy6"/>
+      <item title="1f607" icon="ui://9wtvpvj4eloy7"/>
+      <item title="1f608" icon="ui://9wtvpvj4eloy8"/>
+      <item title="1f609" icon="ui://9wtvpvj4eloy9"/>
+      <item title="1f610" icon="ui://9wtvpvj4eloya"/>
+      <item title="1f611" icon="ui://9wtvpvj4eloyb"/>
+      <item title="1f612" icon="ui://9wtvpvj4eloyc"/>
+      <item title="1f613" icon="ui://9wtvpvj4eloyd"/>
+    </list>
+  </displayList>
+</component>
