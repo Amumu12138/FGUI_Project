@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="50,50" extention="Button">
-  <Button/>
-  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver"/>
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_c9sc" pkg="5m4xwomj" src="7or75" name="n0" xy="-5,-1">
-      <relation target="" sidePair="width,height"/>
+    <image id="n0_c9sc" name="n0" src="zptj4" fileName="Resoureces/4.png" xy="-5,-1">
+      <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>
+  <Button/>
 </component>
