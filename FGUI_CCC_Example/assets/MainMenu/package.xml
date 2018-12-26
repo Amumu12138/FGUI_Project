@@ -6,5 +6,5 @@
     <component id="c9sc3" name="ButtonSub.xml" path="/Components/"/>
     <image id="zptj4" name="4.png" path="/Resoureces/" exported="true"/>
   </resources>
-  <publish name="MainMenu" path="E:\CocosCreator_Project\FGUI_Example\assets\resources\UI"/>
+  <publish name="MainMenu"/>
 </packageDescription>

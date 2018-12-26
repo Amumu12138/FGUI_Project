@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="hm49gt13" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="mt860" name="Main.xml" path="/Components/" exported="true"/>
+    <image id="mt861" name="n1.png" path="/Resources/" exported="true"/>
+    <image id="mt862" name="n2.png" path="/Resources/" exported="true"/>
+    <image id="mt863" name="n3.png" path="/Resources/" exported="true"/>
+    <image id="mt864" name="n4.png" path="/Resources/" exported="true"/>
+    <image id="mt865" name="n5.png" path="/Resources/" exported="true"/>
+    <component id="gwn86" name="Item.xml" path="/Components/"/>
+  </resources>
+  <publish name="LoopList"/>
+</packageDescription>

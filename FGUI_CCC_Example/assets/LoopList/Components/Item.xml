@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="248,460" pivot="0.5,0.5">
+  <displayList>
+    <loader id="n0_gwn8" name="n0" xy="0,38" size="248,378" fill="scale">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+  </displayList>
+  <relation target="" sidePair="width-width,height-height"/>
+</component>

@@ -12,7 +12,7 @@
       <relation target="n0_eloy" sidePair="center-center,top-top"/>
     </list>
     <image id="n2_eloy" name="n2" src="eloy1p" fileName="Resources/images/9.png" xy="54,633" size="975,60" group="n6_eloy"/>
-    <richtext id="n3_eloy" name="input" xy="56,633" size="975,60" group="n6_eloy" input="true" fontSize="30" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <text id="n3_eloy" name="input" xy="56,633" size="975,60" group="n6_eloy" input="true" fontSize="30" ubb="true" autoSize="none" singleLine="true" autoClearText="true" text=""/>
     <component id="n4_eloy" name="emojiBtn" src="eloy1u" fileName="Components/Button2.xml" xy="1055,622" group="n6_eloy"/>
     <component id="n5_eloy" name="sendBtn" src="eloy1t" fileName="Components/Button.xml" xy="1158,627" group="n6_eloy">
       <Button title="Send" titleColor="#000000" titleFontSize="30"/>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1334,750">
   <displayList>
-    <component id="n0_c9sc" name="n0" src="hkxr0" fileName="Component1.xml" pkg="eyaxz67j" xy="0,6" size="1334,750"/>
+    <component id="n0_c9sc" name="n0" src="hkxr0" fileName="Component1.xml" pkg="eyaxz67j" xy="-10,6" size="1334,750"/>
     <component id="n2_c9sc" name="bagBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="102,130">
       <Button title="BAG"/>
     </component>
     <component id="n3_eloy" name="chatBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="102,221">
       <Button title="CHAT"/>
+    </component>
+    <component id="n4_gwn8" name="loopListBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="102,318">
+      <Button title="LOOP"/>
     </component>
   </displayList>
 </component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <graph id="n0_mt86" name="n0" xy="0,0" size="1334,750" type="rect" fillColor="#ff999999"/>
+    <text id="n4_gwn8" name="n4" xy="62,23" size="257,42" fontSize="30" color="#ffffff" italic="true" strokeColor="#000000" text="Example_LoopList"/>
+    <list id="n1_gwn8" name="itemList" xy="192,111" size="1051,482" layout="row" overflow="scroll" scroll="horizontal" margin="0,0,65,0" colGap="99" defaultItem="ui://hm49gt13gwn86"/>
+    <text id="n2_gwn8" name="n2" xy="501,650" size="102,48" fontSize="30" autoSize="none" text="Index:"/>
+    <text id="n3_gwn8" name="n3" xy="631,651" size="116,42" fontSize="30" autoSize="none" text=""/>
+  </displayList>
+</component>
