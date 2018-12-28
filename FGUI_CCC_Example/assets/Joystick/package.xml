@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="abkrtn3f" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="l12j0" name="Main.xml" path="/Components/" exported="true"/>
+    <image id="l12j7" name="0.png" path="/Resources/"/>
+    <image id="l12j8" name="1.png" path="/Resources/"/>
+    <component id="l12j1" name="circle.xml" path="/Components/"/>
+  </resources>
+  <publish name="Joystick"/>
+</packageDescription>

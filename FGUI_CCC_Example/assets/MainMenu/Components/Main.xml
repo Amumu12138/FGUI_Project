@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1334,750">
   <displayList>
-    <component id="n0_c9sc" name="n0" src="hkxr0" fileName="Component1.xml" pkg="eyaxz67j" xy="-10,6" size="1334,750"/>
-    <component id="n2_c9sc" name="bagBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="102,130">
+    <component id="n0_c9sc" name="n0" src="hkxr0" fileName="Component1.xml" pkg="eyaxz67j" xy="0,0" size="1334,750"/>
+    <component id="n2_c9sc" name="bagBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="100,120">
       <Button title="BAG"/>
     </component>
-    <component id="n3_eloy" name="chatBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="102,221">
+    <component id="n3_eloy" name="chatBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="100,220">
       <Button title="CHAT"/>
     </component>
-    <component id="n4_gwn8" name="loopListBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="102,318">
+    <component id="n4_gwn8" name="loopListBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="100,320">
       <Button title="LOOP"/>
+    </component>
+    <component id="n5_l12j" name="joystickBtn" src="c9sc3" fileName="Components/ButtonSub.xml" xy="100,420">
+      <Button title="JOYS"/>
     </component>
   </displayList>
 </component>

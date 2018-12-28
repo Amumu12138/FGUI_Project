@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <graph id="n0_l12j" name="n0" xy="0,0" size="1334,750" type="rect" fillColor="#ff999999"/>
+    <text id="n1_l12j" name="n1" xy="66,30" size="255,42" fontSize="30" color="#ffffff" bold="true" italic="true" strokeColor="#000000" text="Example_Joystick"/>
+    <image id="n2_l12j" name="joystick_center" src="l12j7" fileName="Resources/0.png" xy="141,568">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </image>
+    <component id="n3_l12j" name="joystick" src="l12j1" fileName="Components/circle.xml" xy="72,498">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <graph id="n5_l12j" name="joystick_touch" xy="55,480" size="240,240" type="rect" lineSize="0" fillColor="#00ffffff">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </graph>
+    <text id="n6_l12j" name="n6" xy="51,146" size="133,42" fontSize="30" color="#ffffff" autoSize="none" bold="true" italic="true" strokeColor="#000000" text="Degree:"/>
+    <text id="n7_l12j" name="degreeText" xy="200,146" size="10,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" bold="true" text=""/>
+  </displayList>
+</component>
